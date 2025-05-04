@@ -51,8 +51,3 @@ To develop a supervised classification model using machine learning techniques t
 5. **Visualization**
    - A survival count bar chart with labeled integer values
    - Feature importance bar plot
-
----
-
-## 📈 Obtained Output
-plt.savefig("survival_count_plot.png")
